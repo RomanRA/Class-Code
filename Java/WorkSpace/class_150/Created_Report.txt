@@ -1,0 +1,27 @@
+     Inventory#      Item Name          Price      Quantity
+
+          E3233  CordlessDrill         123.49             12
+          W2321   WindowSealer          1.695             84
+          T4434      Generator         1500.0              3
+          H9033        Plywood         10.545             75
+          M4543         Filter         7.3125             47
+          Y2030      Batteries          2.495            275
+          J9489         Hammer         18.990             12
+          K2321     Compressor         315.25              8
+          U8391       TableSaw         411.77             11
+          Q1901        Fawcett         32.625             22
+          K8382           Tape         1.4925             50
+          L3421          Paint         20.700             21
+          P1111        Conduit          3.995             51
+          I7091          Broom          12.15             10
+          Y6103      WrenchSet         60.030             17
+          R8103           Door          89.25             25
+          A0019            Fan         37.990             19
+          T0184      LawnMower         160.49             33
+          X1002         Pliers           4.59             10
+          V8000            Rug         639.44             12
+          T1909     FlashLight          4.995             73
+          T1909     FlashLight          4.995             73
+          C0989          Grout           17.5             10
+          P0323            PVC          3.995             65
+          K9992         Blinds         36.375             23

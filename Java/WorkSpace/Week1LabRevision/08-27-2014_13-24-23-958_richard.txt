@@ -1,0 +1,8 @@
+Customer: richard
+Name: Poodle puppy   Description: cute brown curly pups   Type: P   Price: $149.50   Quantity: 7   Interaction Level: 3   Diet: chicken   Weight: 15.00 lbs.
+Number of items: 1
+
+Subtotal: $149.5
+Discount: -$14.950000000000001
+Tax: $121.09500000000001
+Grand Total: $255.64500000000004

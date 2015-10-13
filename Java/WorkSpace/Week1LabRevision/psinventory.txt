@@ -1,0 +1,6 @@
+P,Poodle puppy,cute brown curly pups,149.5,7,3,chicken,15
+P,Chinese parrot,Colorful feathery pet,199.95,3,2,birdseed,0.5
+S,Fish tank - 10 gal,for goldfish,19.99,9,FishTanks R Us
+S,Fish tank - 20 gal,for goldfish,49.95,10,FishTanks R Us
+P,Komodo dragon,scary pet,549,2,2,small animals,200
+S,Steel cage,for the dragon,250.99,3,CagesUnlimited
